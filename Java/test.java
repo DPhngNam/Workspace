@@ -16,6 +16,7 @@ public class test {
             for(int j = 0 ; j < 10 ; j++){
                 System.out.print(sam[i][j] + " ");
             }
+            
             System.out.println();
 
         }
