@@ -14,7 +14,7 @@
     }
 
     class inDex{
-        public string fname ;
+        public string fname;
         public string lname;
 
 
