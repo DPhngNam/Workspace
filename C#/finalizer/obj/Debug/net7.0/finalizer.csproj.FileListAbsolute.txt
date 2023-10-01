@@ -1,0 +1,14 @@
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\finalizer\bin\Debug\net7.0\finalizer.exe
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\finalizer\bin\Debug\net7.0\finalizer.deps.json
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\finalizer\bin\Debug\net7.0\finalizer.runtimeconfig.json
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\finalizer\bin\Debug\net7.0\finalizer.dll
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\finalizer\bin\Debug\net7.0\finalizer.pdb
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\finalizer\obj\Debug\net7.0\finalizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\finalizer\obj\Debug\net7.0\finalizer.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\finalizer\obj\Debug\net7.0\finalizer.AssemblyInfo.cs
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\finalizer\obj\Debug\net7.0\finalizer.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\finalizer\obj\Debug\net7.0\finalizer.dll
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\finalizer\obj\Debug\net7.0\refint\finalizer.dll
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\finalizer\obj\Debug\net7.0\finalizer.pdb
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\finalizer\obj\Debug\net7.0\finalizer.genruntimeconfig.cache
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\finalizer\obj\Debug\net7.0\ref\finalizer.dll

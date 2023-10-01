@@ -1,0 +1,28 @@
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\Event\bin\Debug\net7.0\Event.exe
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\Event\bin\Debug\net7.0\Event.deps.json
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\Event\bin\Debug\net7.0\Event.runtimeconfig.json
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\Event\bin\Debug\net7.0\Event.dll
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\Event\bin\Debug\net7.0\Event.pdb
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\Event\obj\Debug\net7.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\Event\obj\Debug\net7.0\Event.AssemblyInfoInputs.cache
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\Event\obj\Debug\net7.0\Event.AssemblyInfo.cs
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\Event\obj\Debug\net7.0\Event.csproj.CoreCompileInputs.cache
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\Event\obj\Debug\net7.0\Event.dll
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\Event\obj\Debug\net7.0\refint\Event.dll
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\Event\obj\Debug\net7.0\Event.pdb
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\Event\obj\Debug\net7.0\Event.genruntimeconfig.cache
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\Event\obj\Debug\net7.0\ref\Event.dll
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\Event\bin\Debug\net7.0\Event.exe
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\Event\bin\Debug\net7.0\Event.deps.json
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\Event\bin\Debug\net7.0\Event.runtimeconfig.json
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\Event\bin\Debug\net7.0\Event.dll
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\Event\bin\Debug\net7.0\Event.pdb
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\Event\obj\Debug\net7.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\Event\obj\Debug\net7.0\Event.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\Event\obj\Debug\net7.0\Event.AssemblyInfo.cs
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\Event\obj\Debug\net7.0\Event.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\Event\obj\Debug\net7.0\Event.dll
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\Event\obj\Debug\net7.0\refint\Event.dll
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\Event\obj\Debug\net7.0\Event.pdb
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\Event\obj\Debug\net7.0\Event.genruntimeconfig.cache
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\Event\obj\Debug\net7.0\ref\Event.dll

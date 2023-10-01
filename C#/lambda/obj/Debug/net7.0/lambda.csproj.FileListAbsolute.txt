@@ -1,0 +1,28 @@
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\lambda\bin\Debug\net7.0\lambda.exe
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\lambda\bin\Debug\net7.0\lambda.deps.json
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\lambda\bin\Debug\net7.0\lambda.runtimeconfig.json
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\lambda\bin\Debug\net7.0\lambda.dll
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\lambda\bin\Debug\net7.0\lambda.pdb
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\lambda\obj\Debug\net7.0\lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\lambda\obj\Debug\net7.0\lambda.AssemblyInfoInputs.cache
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\lambda\obj\Debug\net7.0\lambda.AssemblyInfo.cs
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\lambda\obj\Debug\net7.0\lambda.csproj.CoreCompileInputs.cache
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\lambda\obj\Debug\net7.0\lambda.dll
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\lambda\obj\Debug\net7.0\refint\lambda.dll
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\lambda\obj\Debug\net7.0\lambda.pdb
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\lambda\obj\Debug\net7.0\lambda.genruntimeconfig.cache
+D:\One Drive\OneDrive - studyplaner\Workspace\C#\lambda\obj\Debug\net7.0\ref\lambda.dll
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\lambda\bin\Debug\net7.0\lambda.exe
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\lambda\bin\Debug\net7.0\lambda.deps.json
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\lambda\bin\Debug\net7.0\lambda.runtimeconfig.json
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\lambda\bin\Debug\net7.0\lambda.dll
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\lambda\bin\Debug\net7.0\lambda.pdb
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\lambda\obj\Debug\net7.0\lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\lambda\obj\Debug\net7.0\lambda.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\lambda\obj\Debug\net7.0\lambda.AssemblyInfo.cs
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\lambda\obj\Debug\net7.0\lambda.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\lambda\obj\Debug\net7.0\lambda.dll
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\lambda\obj\Debug\net7.0\refint\lambda.dll
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\lambda\obj\Debug\net7.0\lambda.pdb
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\lambda\obj\Debug\net7.0\lambda.genruntimeconfig.cache
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\lambda\obj\Debug\net7.0\ref\lambda.dll
