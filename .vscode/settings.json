@@ -1,5 +1,15 @@
 {
     "files.associations": {
         "*.tcc": "cpp"
+    },
+    "java.configuration.runtimes": [
+
+
+    ],
+    "java.test.config": {
+        
     }
+
+   
+
 }
