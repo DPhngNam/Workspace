@@ -6,5 +6,6 @@ public class Vectorr {
 
         a.add(0, 1);
         System.out.println(a.get(0));
+        
     }
 }
