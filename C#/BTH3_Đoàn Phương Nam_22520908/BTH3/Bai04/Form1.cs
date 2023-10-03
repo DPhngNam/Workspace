@@ -4,11 +4,12 @@ namespace Bai04
 {
     public partial class Form1 : Form
     {
+        float data = 0;
         public Form1()
         {
             InitializeComponent();
-
-
+            textBox1.Text = Convert.ToString(data);
+            textBox1.Show();
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -21,10 +22,19 @@ namespace Bai04
         }
         private void button1_Click(object sender, EventArgs e)
         {
+            
             if (button1.BackColor == Color.White)
             {
-                button1.BackColor = Color.Yellow;
+                button1.BackColor = Color.Blue;
+                data += 5000;
             }
+            else if (button1.BackColor == Color.Blue)
+            {
+                button1.BackColor = Color.White;
+                data -= 5000;
+            }
+            textBox1.Text = Convert.ToString(data);
+            
         }
 
 
@@ -37,5 +47,9 @@ namespace Bai04
 
         }
 
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
     }
 }

@@ -1,6 +1,8 @@
 {
     "files.associations": {
-        "*.tcc": "cpp"
+        "*.json": "csharp",
+        "*.tcc": "cpp",
+        "iostream": "cpp"
     },
     "java.configuration.runtimes": [
 

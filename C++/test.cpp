@@ -9,11 +9,19 @@ int main() {
     int t;
     cin>>t;
     while(t--){
-        ll n,x,k;
-        cin>>n>>x>>k;
-        if((2*k>=x*(x+1)) && (2*k<=n*(n+1)-(n-x)*(n-x+1))){ 
-			cout << "YES\n";
-		}else cout<<"NO\n";
+        int n;
+        cin>>n;
+        vector<ll> a(n);
+        ll sum = 0;
+        for(int i = 0 ; i < n;i++){
+            cin>>a[i];
+            sum+=a[i];
+        }
+        ll i = -sum / n;
+        ll j = sum / n;
+        while(x--){
+
+        }
     }
     
     return 0;
