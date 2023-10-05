@@ -19,9 +19,7 @@ int main() {
         }
         ll i = -sum / n;
         ll j = sum / n;
-        while(x--){
-
-        }
+        
     }
     
     return 0;

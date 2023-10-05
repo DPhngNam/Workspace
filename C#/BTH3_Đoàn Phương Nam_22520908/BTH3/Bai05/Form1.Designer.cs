@@ -159,16 +159,16 @@
             // 
             // dataGridView1
             // 
-            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
+            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dataGridView1.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
             dataGridView1.ColumnHeadersHeight = 29;
             dataGridView1.Columns.AddRange(new DataGridViewColumn[] { Column1, Column2, Column3, Column4, Column5 });
             dataGridView1.ImeMode = ImeMode.On;
-            dataGridView1.Location = new Point(291, 398);
+            dataGridView1.Location = new Point(57, 380);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
             dataGridView1.RowTemplate.Height = 29;
-            dataGridView1.Size = new Size(546, 151);
+            dataGridView1.Size = new Size(1039, 293);
             dataGridView1.TabIndex = 12;
             dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
@@ -186,28 +186,24 @@
             Column2.HeaderText = "Mã tài khoản";
             Column2.MinimumWidth = 6;
             Column2.Name = "Column2";
-            Column2.Width = 124;
             // 
             // Column3
             // 
             Column3.HeaderText = "Tên khách hàng";
             Column3.MinimumWidth = 6;
             Column3.Name = "Column3";
-            Column3.Width = 140;
             // 
             // Column4
             // 
             Column4.HeaderText = "Địa chỉ";
             Column4.MinimumWidth = 6;
             Column4.Name = "Column4";
-            Column4.Width = 84;
             // 
             // Column5
             // 
             Column5.HeaderText = "Số tiền";
             Column5.MinimumWidth = 6;
             Column5.Name = "Column5";
-            Column5.Width = 84;
             // 
             // form1
             // 
