@@ -1,0 +1,42 @@
+<?xml version="1.1" encoding="UTF-8"?> <!-- Self-Describing Syntax, must come first in the document-->
+<!-- XML documents must contain one root element that is the parent of all other elements -->
+<bookstore>
+    <book category="COOKING">
+        <title lang="en">Everyday Italian</title>
+        <author>Giada De Laurentiis</author>
+        <year>2005</year>
+        <price>30.00</price>
+    </book>
+    <book category="CHILDREN">
+        <title lang="en">Harry Potter</title>
+        <author>J K. Rowling</author>
+        <year>2005</year>
+        <price>29.99</price>
+    </book>
+    <book category="WEB">
+        <title lang="en">XQuery Kick Start</title>
+        <author>James McGovern</author>
+        <author>Per Bothner</author>
+        <author>Kurt Cagle</author>
+        <author>James Linn</author>
+        <author>Vaidyanathan Nagarajan</author>
+        <year>2003</year>
+        <price>49.99</price>
+    </book>
+    <book category="WEB">
+        <title lang="en">Learning XML</title>
+        <author>Erik T. Ray</author>
+        <year>2003</year>
+        <price>39.95</price>
+    </book>
+
+</bookstore>
+
+<!-- The structer of the XML file 
+<r>
+    <child>
+        <subchild>1</subchild>
+        <subchild>2</subchild>
+        <subchild>3</subchild>
+    </child>
+</r> -->
