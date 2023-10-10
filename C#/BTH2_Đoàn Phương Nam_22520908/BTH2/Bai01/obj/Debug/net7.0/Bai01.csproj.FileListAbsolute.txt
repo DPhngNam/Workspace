@@ -12,3 +12,17 @@ D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH2_Đoàn Phương Nam_2252090
 D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai01\obj\Debug\net7.0\Bai01.pdb
 D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai01\obj\Debug\net7.0\Bai01.genruntimeconfig.cache
 D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai01\obj\Debug\net7.0\ref\Bai01.dll
+D:\Projects\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai01\bin\Debug\net7.0\Bai01.exe
+D:\Projects\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai01\bin\Debug\net7.0\Bai01.deps.json
+D:\Projects\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai01\bin\Debug\net7.0\Bai01.runtimeconfig.json
+D:\Projects\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai01\bin\Debug\net7.0\Bai01.dll
+D:\Projects\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai01\bin\Debug\net7.0\Bai01.pdb
+D:\Projects\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai01\obj\Debug\net7.0\Bai01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai01\obj\Debug\net7.0\Bai01.AssemblyInfoInputs.cache
+D:\Projects\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai01\obj\Debug\net7.0\Bai01.AssemblyInfo.cs
+D:\Projects\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai01\obj\Debug\net7.0\Bai01.csproj.CoreCompileInputs.cache
+D:\Projects\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai01\obj\Debug\net7.0\Bai01.dll
+D:\Projects\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai01\obj\Debug\net7.0\refint\Bai01.dll
+D:\Projects\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai01\obj\Debug\net7.0\Bai01.pdb
+D:\Projects\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai01\obj\Debug\net7.0\Bai01.genruntimeconfig.cache
+D:\Projects\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai01\obj\Debug\net7.0\ref\Bai01.dll

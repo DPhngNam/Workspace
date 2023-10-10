@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive\\OneDrive - studyplaner\\Workspace\\C#\\BTH3_Đoàn Phương Nam_22520908\\BTH3\\Bai03\\Bai03.csproj": {}
+    "D:\\Projects\\Workspace\\C#\\BTH3_Đoàn Phương Nam_22520908\\BTH3\\Bai03\\Bai03.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive\\OneDrive - studyplaner\\Workspace\\C#\\BTH3_Đoàn Phương Nam_22520908\\BTH3\\Bai03\\Bai03.csproj": {
+    "D:\\Projects\\Workspace\\C#\\BTH3_Đoàn Phương Nam_22520908\\BTH3\\Bai03\\Bai03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\OneDrive - studyplaner\\Workspace\\C#\\BTH3_Đoàn Phương Nam_22520908\\BTH3\\Bai03\\Bai03.csproj",
+        "projectUniqueName": "D:\\Projects\\Workspace\\C#\\BTH3_Đoàn Phương Nam_22520908\\BTH3\\Bai03\\Bai03.csproj",
         "projectName": "Bai03",
-        "projectPath": "D:\\OneDrive\\OneDrive - studyplaner\\Workspace\\C#\\BTH3_Đoàn Phương Nam_22520908\\BTH3\\Bai03\\Bai03.csproj",
+        "projectPath": "D:\\Projects\\Workspace\\C#\\BTH3_Đoàn Phương Nam_22520908\\BTH3\\Bai03\\Bai03.csproj",
         "packagesPath": "C:\\Users\\pnam2\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\OneDrive - studyplaner\\Workspace\\C#\\BTH3_Đoàn Phương Nam_22520908\\BTH3\\Bai03\\obj\\",
+        "outputPath": "D:\\Projects\\Workspace\\C#\\BTH3_Đoàn Phương Nam_22520908\\BTH3\\Bai03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\IDE\\Visual Studio\\Loca\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\pnam2\\AppData\\Roaming\\NuGet\\NuGet.Config",

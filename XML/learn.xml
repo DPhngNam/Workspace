@@ -21,7 +21,7 @@
         <author>James Linn</author>
         <author>Vaidyanathan Nagarajan</author>
         <year>2003</year>
-        <price>49.99</price>
+        <price>49.99</price>s
     </book>
     <book category="WEB">
         <title lang="en">Learning XML</title>

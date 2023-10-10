@@ -8,19 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\pnam2\\.nuget\\packages\\": {}
+    "C:\\Users\\pnam2\\.nuget\\packages\\": {},
+    "D:\\IDE\\Visual Studio\\Loca\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\OneDrive - studyplaner\\Workspace\\C#\\Delegate\\Delegate.csproj",
+      "projectUniqueName": "D:\\Projects\\Workspace\\C#\\Delegate\\Delegate.csproj",
       "projectName": "Delegate",
-      "projectPath": "D:\\OneDrive\\OneDrive - studyplaner\\Workspace\\C#\\Delegate\\Delegate.csproj",
+      "projectPath": "D:\\Projects\\Workspace\\C#\\Delegate\\Delegate.csproj",
       "packagesPath": "C:\\Users\\pnam2\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\OneDrive - studyplaner\\Workspace\\C#\\Delegate\\obj\\",
+      "outputPath": "D:\\Projects\\Workspace\\C#\\Delegate\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\IDE\\Visual Studio\\Loca\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\pnam2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

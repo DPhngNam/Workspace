@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "d:\\OneDrive\\OneDrive - studyplaner\\Workspace\\C#\\Event\\Event.csproj": {}
+    "D:\\Projects\\Workspace\\C#\\Event\\Event.csproj": {}
   },
   "projects": {
-    "d:\\OneDrive\\OneDrive - studyplaner\\Workspace\\C#\\Event\\Event.csproj": {
+    "D:\\Projects\\Workspace\\C#\\Event\\Event.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\OneDrive\\OneDrive - studyplaner\\Workspace\\C#\\Event\\Event.csproj",
+        "projectUniqueName": "D:\\Projects\\Workspace\\C#\\Event\\Event.csproj",
         "projectName": "Event",
-        "projectPath": "d:\\OneDrive\\OneDrive - studyplaner\\Workspace\\C#\\Event\\Event.csproj",
+        "projectPath": "D:\\Projects\\Workspace\\C#\\Event\\Event.csproj",
         "packagesPath": "C:\\Users\\pnam2\\.nuget\\packages\\",
-        "outputPath": "d:\\OneDrive\\OneDrive - studyplaner\\Workspace\\C#\\Event\\obj\\",
+        "outputPath": "D:\\Projects\\Workspace\\C#\\Event\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\IDE\\Visual Studio\\Loca\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\pnam2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
