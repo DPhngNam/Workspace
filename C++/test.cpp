@@ -52,10 +52,22 @@ bool isPrime(long long n, int k) {
 
 int main() {
     ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
-    srand(time(NULL));
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    srand(static_cast<unsigned>(time(NULL)));
    
-
+    int n;cin>>n;
+    while(n--){
+        string s,t;
+        cin>>s>>t;
+        string res = "";
+        for(int i = s.size()-1;i>=0;i--){
+            if(s[i]=='0'&&t[i]=='0') res = "0"+res;
+            else if(s[i]=='1'&&t[i]=='1') res = "0"+res;
+            else res = "1"+res;
+        }
+        cout<<res<<"\n";
+    }
     return 0;
 }
+
